@@ -19,7 +19,8 @@ The forgery detection tool contained in this repository currently features foren
 
 Navigate to the **Project** directory:
 ```
-$ cd Image_Manipulation_Detection_System_Python
+clone https://github.com/AmrutaJanbhor/Image-manipulation-detection.git
+$ cd Image-Manipulation-Detection
 ```
 
 Next, run the **detect.py** script, providing the image you wish to evaluate:
